@@ -1,5 +1,6 @@
 import pandas as pd
 import string
+import numpy as np
 
 df = pd.read_excel('Fusion_Current_Country_Restrictions__2_28_20.xlsx')
 # print(df)
